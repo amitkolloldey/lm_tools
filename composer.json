@@ -1,0 +1,19 @@
+{
+    "name": "amitkolloldey/lm_tools",
+    "type": "library",
+    "license": "mit",
+    "autoload": {
+        "psr-4": {
+            "Amitkolloldey\\LmTools\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Logicfighters"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "stripe/stripe-php": "^13.13@beta"
+    }
+}
